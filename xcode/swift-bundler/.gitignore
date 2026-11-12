@@ -1,9 +1,0 @@
-.DS_Store
-.build
-Packages
-*.xcodeproj
-xcuserdata/
-.swiftpm
-.vscode
-/docs
-/HelloWorld

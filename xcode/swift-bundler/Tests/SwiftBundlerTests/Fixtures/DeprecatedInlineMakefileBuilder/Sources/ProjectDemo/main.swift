@@ -1,3 +1,0 @@
-import CLibHeaders
-
-greet("stackotter")
